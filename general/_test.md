@@ -1,2 +1,0 @@
-# Test
-Write access works
