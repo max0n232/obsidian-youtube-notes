@@ -6,7 +6,7 @@ Auto-generated video notes from Telegram bot → n8n → GitHub → Obsidian.
 
 | Folder | Category |
 |--------|----------|
-| ai-tools/ | AI инструменты, Claude, ChatGPT, автоматизация |
+| ai-tools/ | AI инструменты, [[Claude]], ChatGPT, автоматизация |
 | development/ | Программирование, CLI, инфраструктура |
 | wordpress/ | WordPress, WP плагины, темы |
 | seo/ | SEO, маркетинг, аналитика |
