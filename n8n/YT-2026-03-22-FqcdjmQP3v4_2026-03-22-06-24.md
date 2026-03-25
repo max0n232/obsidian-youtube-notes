@@ -1,5 +1,5 @@
 ---
-tags: [youtube, research, n8n, claude, automation]
+processed: true
 category: "n8n"
 source: "https://www.youtube.com/watch?v=FqcdjmQP3v4&t=420s"
 date: 2026-03-22
