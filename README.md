@@ -1,3 +1,11 @@
+---
+title: README
+type: area-index
+created: 2026-03-22
+updated: 2026-04-19
+tags: [youtube, notes, index]
+---
+
 # YouTube Notes
 
 Auto-generated video notes from Telegram bot → n8n → GitHub → Obsidian.
